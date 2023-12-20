@@ -1,5 +1,4 @@
-const myQuestions =
-[
+const myQuestions = [
   {
     "question": "Chat",
     "answers": {
@@ -21,13 +20,13 @@ const myQuestions =
     "correctAnswer": "a"
   },
   {
-    "question": "Au revoir",
+    "question": "Bonjour",
     "answers": {
       "a": "Hello",
       "b": "Goodbye",
       "c": "Thank you",
       "d": "Sorry"
     },
-    "correctAnswer": "b"
+    "correctAnswer": "a"
   }
 ]
