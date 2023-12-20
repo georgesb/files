@@ -21,13 +21,13 @@ const myQuestions =
     "correctAnswer": "a"
   },
   {
-    "question": "Bonjour",
+    "question": "Au revoir",
     "answers": {
       "a": "Hello",
       "b": "Goodbye",
       "c": "Thank you",
       "d": "Sorry"
     },
-    "correctAnswer": "a"
+    "correctAnswer": "b"
   }
 ]
